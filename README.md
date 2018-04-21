@@ -1,4 +1,4 @@
-![https://github.com/hACKbUSTER/IKEA-Maker/blob/master/GitHub/Images/Banner.jpg]()
+![](https://raw.githubusercontent.com/hACKbUSTER/IKEA-Maker/master/GitHub/Images/Banner.jpg)
 
 # IKEA-Maker
 IKEA IKODE@SHANGHAI 2018 HACKATHON 1ST
