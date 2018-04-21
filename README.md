@@ -10,7 +10,12 @@ placeholder for @sergiochan to complete
 
 # How to build
 
-Due to 3rd-party assets we used in the hackathon development process have pre-seat licenses, we removed them when open-sourcing the project.
+- Unity 2017.3.0f3
+- Build Target iOS
+
+
+Due to 3rd-party assets we used in the hackathon development process have pre-seat licenses, we removed them when open-sourcing the project. 
+~~And the code in FinGameWorks namespace sucks I know, but what do you expect in a 3 day hackathon with two parallel projects going on :-)~~
 
 3rd-Party Asset Used:
 
@@ -28,5 +33,6 @@ Due to 3rd-party assets we used in the hackathon development process have pre-se
 
 - ConsolePro
 - SRDebugger
+
 
 
