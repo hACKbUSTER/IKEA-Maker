@@ -6,7 +6,9 @@ IKEA IKODE@SHANGHAI 2018 HACKATHON 1ST
 IKEA MAKER uses AR technology to ultimately enhance the experience of assembling things with your own hands. Enjoying making!
 
 ### In Dev Demo Video
-<video height="240" controls>
+> In case you can't see the video below, please visit [the GitHub Page](https://hackbuster.github.io/IKEA-Maker/) or [the Raw Video File](https://hackbuster.github.io/IKEA-Maker/GitHub/Videos/Demo.mp4)
+
+<video height="320" controls>
   <source src="GitHub/Videos/Demo.mp4" type="video/mp4">
 </video>
 
