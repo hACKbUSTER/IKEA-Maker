@@ -34,7 +34,6 @@ Due to 3rd-party assets we used in the hackathon development process have pre-se
 ### Needed to build
 
 - AVProVideo
-- Beautify
 - DOTweenPro
 - EasyTouchBundle
 - TranslucentImage
@@ -43,6 +42,7 @@ Due to 3rd-party assets we used in the hackathon development process have pre-se
 
 ### Optional included
 
+- Beautify
 - ConsolePro
 - SRDebugger
 
