@@ -5,6 +5,11 @@ IKEA IKODE@SHANGHAI 2018 HACKATHON 1ST
 
 IKEA MAKER uses AR technology to ultimately enhance the experience of assembling things with your own hands. Enjoying making!
 
+### In Dev Demo Video
+<video height="240" controls>
+  <source src="GitHub/Videos/Demo.mp4" type="video/mp4">
+</video>
+
 ### The Issue
 
 Despite all the pre-shopping and in-shopping enhancement, few pay attention to after shopping experience. For most of the fans of IKEA, assembling and making things with their own hands is definitely one of the most important reasons for their love to IKEA, but many of them could not understand the paper manual very well so that they are not able to fully enjoy the procedure of making.
